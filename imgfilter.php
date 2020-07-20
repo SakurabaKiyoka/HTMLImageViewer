@@ -1,5 +1,5 @@
 <?php
-$confdir= array("file","drop","ok");
+$confdir= array("file","drop","ok");//file->all pics,drop->unwanted pics,ok->wanted pics.please set this before use ?init=true
 global $basedir;
 list($basedir,$dropdir,$okdir) = $confdir;
 global $dataimg;
