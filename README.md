@@ -24,7 +24,7 @@ Special thanks for <a href="https://github.com/tongyuantongyu">TYTY</a>.the part
 This project also licensed with MIT.
 
 
-# HTML网页版图像查看/选择器
+# HTML网页版图像查看/筛选器
 PHP+HTML+CSS+JS PC/手机端均支持的手动图像选择器
 
 # 这东西能做什么？
@@ -56,7 +56,7 @@ PHP+HTML+CSS+JS PC/携帯でも使える手動画像フィルター
 
 # このスクリプトは何ができますか？
 
-たくさんのイラストがあって、好きな、嫌なイラストが割りたい。ZXRキーだけで使ってもイラストの選択のことができます。
+たくさんのイラストがあって、好きな、嫌なイラストが混ぜ合わせる。好きか嫌やかイラストが割りたい。ZXRキーだけで使ってもイラストの選択のことができます。
 
 # 利用方法
 
