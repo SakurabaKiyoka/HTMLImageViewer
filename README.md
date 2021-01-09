@@ -3,17 +3,17 @@ PHP+HTML+CSS+JS PC/Mobile manually image filter
 
 # What can this do?
 
-This is a image manually filter.if you have some images to manually choice what images should use or not.simplly to press Z X R and left arrow right arrow and mouse click to control all things.
+This is a image manually filter. If you have some images which needs to manually choice what images should use or not. Just simplly to press Z X R keys, left and right arrow keys , or just by mouse click to control all things.
 
 # Usage
 
-First,Create 3 folders.1 for all pics, 1 for dropped pics, 1 for images which you need.
+First,create 3 folders.1 for all pics, 1 for dropped pics, 1 for images which you need.
 
-Then,modify the PHPfile,check the $confdir if the folder name is not same as php file.
+Then,modify the PHP file, check the $confdir if the folder name is not same as php file.
 
-Put your all images file to the all pics folder,then run the php with the parameter "?init=true",then the program will init the database file.
+Put your all images file to the all pics folder,then run the php with the parameter "?init=true"(or double click regenerate database button),then the program will init the index file.
 
-Finally,you can see image.Use mouse click N or Y to select pictures,also you can use Z for decline and X for accept.double press R key to reset database or double click the Database Init button to init the index database.
+Finally,you can see the image. Use mouse click N or Y to select pictures,also you can use Z for decline and X for accept. Double press R key to reset index file or double click the Database Init button to init the index database.
 
 # ScreenShot
 ![https://raw.githubusercontent.com/SakurabaKiyoka/HTMLImageViewer/master/screenshot.png](screenshot.png)
@@ -60,18 +60,18 @@ PHP+HTML+CSS+JS PC/携帯でも使える手動画像フィルター
 
 # 利用方法
 
-まずは三つフォルダを作成する。一つは全部のイラスト置き場、一つは好きなイラスト置き場、一つは嫌なイラスト置き場。
+まず三つフォルダを作成しておきます。一つは全部のイラスト置き場、一つは好きなイラスト置き場、一つは嫌なイラスト置き場。
 
 それからPHPファイルの$confdirを編集する。作成したフォルダどおりに変更をお願いします。
 
 すべてのイラストは全部のイラスト置き場に入れて、PHPスクリプトを?init=trueがパラメータとして実行する。それからプログラムは自動的にファイルのインデックスを作成する。
 
-ついに、イラストが見られます。Zキーは拒否、Xキーは許す。ダブルクリックRキーはインデックスを再作成。またダブルクリックデックスを再作成のボタンもできます。
+ついに、イラストが見られます。Zキーは削除、Xキーは保存。ダブルクリックRキーはインデックスに再作成することができます。またダブルクリックデックスを再作成のボタンもできます。
 
 # スクリーンショット
 ![https://raw.githubusercontent.com/SakurabaKiyoka/HTMLImageViewer/master/screenshot.png](screenshot.png)
 
 # 特別な感謝と著作権情報
-特別な感謝<a href="https://github.com/tongyuantongyu">TYTY</a>さんのCSSとJavaScriptの協力しています。CSSとJavaScriptの部には、TYTYさんからMITに基づく利用しています。
+特別な感謝<a href="https://github.com/tongyuantongyu">TYTY</a>さんのCSSとJavaScriptの協力しています。CSSとJavaScriptの部には、TYTYさんからMITライセンスをもらって利用しています。
 
 このプロジェクトもMITに基づく配布と公開しています。
